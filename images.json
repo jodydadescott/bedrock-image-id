@@ -1,0 +1,8 @@
+{
+    "aws": {
+        "latest-enforcing": "ami-0281a7d3a37a1a40c",
+        "stable-enforcing": "ami-0281a7d3a37a1a40c",
+        "latest-permissive": "ami-0d251e7a0a691aad9",
+        "stable-permissive": "ami-0d251e7a0a691aad9"
+    }
+}
